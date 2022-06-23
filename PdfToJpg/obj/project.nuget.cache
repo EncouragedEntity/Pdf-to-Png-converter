@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "u2KFf5L5C//Ej0FgS90aHGe89xyFDrsLIMfOIHG/o9Gw8O7Ah00PoV+V5wJVgJ7tro3bZDIyJk07u4O1IvR0Hw==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\pdfToJpeg\\PdfToJpg\\PdfToJpg\\PdfToJpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\пк\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\pdfium.net.sdk\\4.67.2704\\pdfium.net.sdk.4.67.2704.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\system.security.cryptography.protecteddata\\5.0.0\\system.security.cryptography.protecteddata.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\пк\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
